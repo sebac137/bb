@@ -1,0 +1,10 @@
+body {
+    font-family: 'Raleway', sans-serif;
+}
+img {
+    width: 30%;
+    margin: 20px;
+    filter: grayscale(100%);
+}
+  
+  
